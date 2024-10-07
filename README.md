@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chidananda Mohapatra</h1>
-<h3 align="center">AI/ML Enhtusiast, FrontEnd Developer</h3>
+<h3 align="center">ML/DL Enhtusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu12386&label=Profile%20views&color=0e75b6&style=flat" alt="sanu12386" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DL**
 
-- 💬 Ask me about **ML/HTML/CSS/JavaScript/React**
+- 💬 Ask me about **ML/DL/NLP**
 
 - 📫 How to reach me **chidanandamahapatra897@gmail.com**
 
