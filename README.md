@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ML/DL/NLP**
 
-- 📫 How to reach me **chidanandamahapatra897@gmail.com**
+- 📫 How to reach me **b522017@iiit-bh.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
