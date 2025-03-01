@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DL**
 
-- 💬 Ask me about **ML/DL/NLP**
+- 💬 Ask me about **ML/DL**
 
 - 📫 How to reach me **b522017@iiit-bh.ac.in**
 
