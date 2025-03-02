@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chidananda Mohapatra</h1>
-<h3 align="center">ML/DL Enhtusiast</h3>
+<h3 align="center">AI/ML Enhtusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu12386&label=Profile%20views&color=0e75b6&style=flat" alt="sanu12386" /> </p>
 
